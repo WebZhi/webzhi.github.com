@@ -1,2 +1,0 @@
-# webzhi.github.com
-WebZhi
